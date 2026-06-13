@@ -1,0 +1,6 @@
+{
+  "name": "Microfinance AI Copilot",
+  "description": "Agentic AI core enabling rural field agents with unstructured note-to-metrics conversion, alternative behavioral credit scoring, and empathetic counseling suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
