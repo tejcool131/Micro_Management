@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="Microfinance AI Copilot Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <img width="800" height="475" alt="Microfinance AI Copilot Banner" src="https://etimg.etb2bimg.com/photo/111934547.cms" />
   
   # 🌾 Microfinance AI Copilot
   
